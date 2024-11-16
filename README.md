@@ -2,8 +2,6 @@
 
 ffmpeg utils.
 
-ffmpeg 相关小工具
-
 ## Audio Converter
 
 [bat file](./ffmpeg_audio_converter.bat)
